@@ -1,0 +1,104 @@
+{
+  "comics": [
+    {
+      "id": 1,
+      "title": "One Piece",
+      "author": "Eiichiro Oda",
+      "publisher": "Shueisha",
+      "genre": "Adventure, Fantasy",
+      "releaseYear": 1997,
+      "volumes": 105,
+      "status": "Ongoing"
+    },
+    {
+      "id": 2,
+      "title": "Naruto",
+      "author": "Masashi Kishimot",
+      "publisher": "Shueisha",
+      "genre": "Action, Adventure",
+      "releaseYear": 1999,
+      "volumes": 72,
+      "status": "Completed"
+    },
+    {
+      "id": 3,
+      "title": "Attack on Titan",
+      "author": "Hajime Isayama",
+      "publisher": "Kodansha",
+      "genre": "Action, Drama, Horror",
+      "releaseYear": 2009,
+      "volumes": 34,
+      "status": "Completed"
+    },
+    {
+      "id": 4,
+      "title": "My Hero Academia",
+      "author": "Kohei Horikoshi",
+      "publisher": "Shueisha",
+      "genre": "Action, Superhero",
+      "releaseYear": 2014,
+      "volumes": 36,
+      "status": "Ongoing"
+    },
+    {
+      "id": 5,
+      "title": "Demon Slayer",
+      "author": "Koyoharu Gotouge",
+      "publisher": "Shueisha",
+      "genre": "Action, Fantasy, Historical",
+      "releaseYear": 2020,
+      "volumes": 45,
+      "status": "Completed"
+    },
+    {
+      "id": 6,
+      "title": "Dragon Ball",
+      "author": "Akira Toriyama",
+      "publisher": "Shueisha",
+      "genre": "Action, Adventure, Fantasy",
+      "releaseYear": 1984,
+      "volumes": 42,
+      "status": "Completed"
+    },
+    {
+      "id": 7,
+      "title": "Jujutsu Kaisen",
+      "author": "Gege Akutami",
+      "publisher": "Shueisha",
+      "genre": "Action, Supernatural",
+      "releaseYear": 2018,
+      "volumes": 24,
+      "status": "Completed"
+    },
+    {
+      "id": 8,
+      "title": "Death Note",
+      "author": "Tsugumi Ohba",
+      "publisher": "Shueisha",
+      "genre": "Mystery, Psychological, Supernatural",
+      "releaseYear": 2003,
+      "volumes": 32,
+      "status": "Completed"
+    },
+    {
+      "id": 9,
+      "title": "Fullmetal Alchemist",
+      "author": "Hiromu Arakawa",
+      "publisher": "Square Enix",
+      "genre": "Adventure, Fantasy, Steampunk",
+      "releaseYear": 2001,
+      "volumes": 27,
+      "status": "Completed"
+    },
+    {
+      "id": 10,
+      "title": "Chainsaw Man",
+      "author": "Tatsuki Fujimoto",
+      "publisher": "Shueisha",
+      "genre": "Action, Horror, Supernatural",
+      "releaseYear": 2018,
+      "volumes": 22,
+      "status": "Completed"
+    }
+  ]
+}
