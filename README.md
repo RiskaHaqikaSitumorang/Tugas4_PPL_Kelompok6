@@ -1,6 +1,6 @@
 # Tugas4_PPL_Kelompok6
 
-
+# Comic Manager API - Dokumentasi
 
 ## 📌 Deskripsi Proyek
 Aplikasi ini dikembangkan sebagai bagian dari tugas pengembangan perangkat lunak yang mengubah implementasi sebelumnya dari JavaScript ke TypeScript. Sistem ini menyediakan antarmuka untuk mengelola koleksi komik dengan fitur lengkap CRUD (Create, Read, Update, Delete). Aplikasi manajemen komik berbasis web dengan fitur:
